@@ -26,6 +26,7 @@ Benefit:<br/>
 5. Having several devices able to go through one VPN gateway WITHOUT using a vpn client<br/>
 6. Dynamic routing of devices towards VPN or internet gateways<br/>
 7. No hassle to configure and get it up and running
+8. when you are done, you can always use it as small pc
 <br/>
 The image will be released for free here and you can also download from the major stores an app (not free of charge) that is allowing you to perform all of these
 operation easily:<br/><br/>
