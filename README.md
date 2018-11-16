@@ -19,7 +19,7 @@ As result playing <b>DAZN</b> app (<b>amazone prime</b> or <b>netflix</b>) strai
 without hassle of consuming extra power or using mirroring or bother with changing channel from a pc becomes really trivial!<br/><br/>
 
 Benefit:<br/>
-1. Cheap solution (a cost for such device is roughly 70~80 euro)<br/>
+1. Cheap solution (a cost for such device is roughly 60~80 euro)<br/>
 2. Extremely low power consumption<br/>
 3. Extend your WIFI in a place not reached by your router<br/>
 4. Having access to the local network of the VPN<br/>
@@ -35,7 +35,8 @@ operation easily:<br/><br/>
 3. Allow/Deny a device to go thru a VPN gateway<br/>
 4. Create/delete/change a VPN connection<br/>
 <br/>
-<br/>
+<img src="devices.jpg" width="200" height="400"></img>
+<br/><br/>
 What you need:<br/>
 1. An SD with at least 4GB<br/>
 2. A BananaPI M1<br/>
