@@ -35,7 +35,11 @@ operation easily:<br/><br/>
 3. Allow/Deny a device to go thru a VPN gateway<br/>
 4. Create/delete/change a VPN connection<br/>
 <br/>
-<img src="devices.jpg" width="200" height="400"></img>
+<div style="align:left">
+<img src="settings.jpg" width="200" height="400" />
+<img src="main.jpg" width="200" height="400" />
+<img src="devices.jpg" width="200" height="400" />
+</div>
 <br/><br/>
 What you need:<br/>
 1. An SD with at least 4GB<br/>
