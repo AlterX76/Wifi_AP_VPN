@@ -38,7 +38,7 @@ What you'll need:<br/>
 -> A SD writer device<br/>
 <br/>
 <br />
-Bundle are available for lazy people on novices: <a href='https://fr.aliexpress.com/item/New-Original-UK-Raspberry-Pi-3-Mod-le-B-Kit-Cas-16-32g-SD-Carte-3A/32878678366.html?spm=a2g0w.search0104.3.51.38de38692l1M24&ws_ab_test=searchweb0_0%2Csearchweb201602_1_10065_10068_319_317_10696_453_10084_454_10083_10618_10307_10821_538_537_10302_536_10134_10059_10884_10887_100031_321_322_10103%2Csearchweb201603_51%2CppcSwitch_0&algo_pvid=4e94373b-7155-4ecc-a8cd-8292f828b7ed&algo_expid=4e94373b-7155-4ecc-a8cd-8292f828b7ed-7'>raspberry bundle</a>
+Bundle are available for lazy people on novices: <a href='https://fr.aliexpress.com/item/New-Original-UK-Raspberry-Pi-3-Mod-le-B-Kit-Cas-16-32g-SD-Carte-3A/32878678366.html?spm=a2g0w.search0104.3.51.38de38692l1M24&ws_ab_test=searchweb0_0%2Csearchweb201602_1_10065_10068_319_317_10696_453_10084_454_10083_10618_10307_10821_538_537_10302_536_10134_10059_10884_10887_100031_321_322_10103%2Csearchweb201603_51%2CppcSwitch_0&algo_pvid=4e94373b-7155-4ecc-a8cd-8292f828b7ed&algo_expid=4e94373b-7155-4ecc-a8cd-8292f828b7ed-7'>raspberry bundle</a><br/><br/>
 Have fun!
 
 
