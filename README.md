@@ -4,7 +4,7 @@ SnapVPN is a technology whereby one can watch from a smartTV straight any conten
 What you need is a snapvpn image (free!), a valid account, if required, to login to (for example using DAZN or NetFlix) and a VPN server located in the country where you'd like to grab content from (your family or friend's place); many routers offer this possibility and if not, just a pc with Windows installed can perform as vpn server.
 <br/><br/>
 <b>I like to call it abstraction of a VPN using a WIFI AP</b>.<br/>
-You didn't yet understand it?<br/>
+You didn't yet get it?<br/>
 Well let's do an example:<br/>
 Starting a snapvpn box, it creates a WIFI AP where any of your devices can connect to (and navigate thru internet). Using the ad-hoc mobile app (download it from Android or Apple store) one can easily configure all available options like:<br/>
 -> Changing Access Point name and password for your WIFI extender<br/>
