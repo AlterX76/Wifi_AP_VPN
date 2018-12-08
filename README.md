@@ -6,12 +6,12 @@ What you need is a snapvpn image (free!), a valid account, if required, to login
 <b>I like to call it abstraction of a VPN using a WIFI AP</b>.<br/>
 You didn't yet understand it?<br/>
 Well let's do an example:<br/>
-Starting a snapvpn box, it creates a WIFI AP where any of your devices can connect to (and navigate thru internet). Using the ad-hoc mobile app (download it from Android or Apple store) one can easily configure all available options like:
--> Changing Access Point name and password for your WIFI extender
--> Changing settings for connecting towards a vpn server (decide if to start the connection at boot of the snapvpn box)
--> Manage different snapvpn boxes (yes! you can have multiple boxes each of them connected to several countries!)
--> Viewer of all connected devices on the WIFI AP and option to enable/disable on the fly which device has to go through which country
--> Start/Stop of a connection on demand
+Starting a snapvpn box, it creates a WIFI AP where any of your devices can connect to (and navigate thru internet). Using the ad-hoc mobile app (download it from Android or Apple store) one can easily configure all available options like:<br/>
+-> Changing Access Point name and password for your WIFI extender<br/>
+-> Changing settings for connecting towards a vpn server (decide if to start the connection at boot of the snapvpn box)<br/>
+-> Manage different snapvpn boxes (yes! you can have multiple boxes each of them connected to several countries!)<br/>
+-> Viewer of all connected devices on the WIFI AP and option to enable/disable on the fly which device has to go through which country<br/>
+-> Start/Stop of a connection on demand<br/><br/>
 
 Benefit:<br/>
 -> Cheap solution (a cost for such device is roughly 40~60 euro)<br/>
