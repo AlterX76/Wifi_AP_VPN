@@ -18,11 +18,11 @@ Benefit:<br/>
 -> Extremely low power consumption<br/>
 -> Extend your WIFI in a place not reached by your router<br/>
 -> Having access to the local network of the VPN<br/>
--> No installation is required on a device (smartwatch, smartphone, smartTV, tablet and so on) to access to a different country's content
--> No limit on the number of devices connected to the VPN (because the box will abstract the same connection for any device)
--> Use native applications (like DAZN) and remote controller on your smartTV 
--> No hassle to configure and get it up and running (plug-in the box and configure it using the mobile application!)
--> when you are done, you can always use it as small pc or something else by just change the SD card that is powering the box!
+-> No installation is required on a device (smartwatch, smartphone, smartTV, tablet and so on) to access to a different country's content<br/>
+-> No limit on the number of devices connected to the VPN (because the box will abstract the same connection for any device)<br/>
+-> Use native applications (like DAZN) and remote controller on your smartTV <br/>
+-> No hassle to configure and get it up and running (plug-in the box and configure it using the mobile application!)<br/>
+-> when you are done, you can always use it as small pc or something else by just change the SD card that is powering the box!<br/>
 <br/><br/>
 Technical details:
 -> SnapVPN box works with protocol PPTP thus that is the protocol required on the server side
