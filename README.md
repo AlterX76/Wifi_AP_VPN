@@ -1,54 +1,44 @@
-
-Create a VPN connection from within a device such as smartphone or desktop is something that already exist. But what about
-having it working on one or more smartTVs just using the wifi connection?<br/>
-Right now smartTV doesn't allow to create VPN connection and so watching your preferred channel not available when you are or live 
-abroad becomes a nightmare...right you can use your pc to create the VPN and mirroring it with the TV, consuming power and create 
-latency to not count if you want to change the movie or the channel you are watching...<br/>
-I have been living abroad for several years and I wanted to whatch my soccer team playing in the second league from abroad...<br/>
-a nightmare with <b>DAZN</b> that allows you just to play local content (even if the account is for another country!).<br/>
-I then came with an idea (that is already working)  based on having a box (so far a bananapi) able to act as WIFI Access Point that extend an
-internet connection (you just need to plug-in the RJ45 cable and you are already online) and at same time it is able to establish
-a VPN connection (right now only pptp is supported) and use it as alternative gateway. It depends on what IP you want to redirect to the VPN
-and the trick is done!<br/><br/>
-<b>I like to call it as abstraction of a VPN using a WIFI AP</b>.<br/>
+<center><img src='logo.png' /></center>
+<br />
+SnapVPN is a technology whereby one can watch from a smarttv straight any content from a different country when you are abroad!
+What you need is a snapvpn image (free!), a valid account, if required, to login to (for example using DAZN or NetFlix) and a VPN server located in the country where you'd like to grab content from (your family or friend's place); many routers offer this possibility and if not, just a pc with Windows installed can perform as vpn server.
+<br/>
+<b>I like to call it abstraction of a VPN using a WIFI AP</b>.<br/>
 You didn't yet understand it?<br/>
 Well let's do an example:<br/>
-Starting the box, it creates a WIFI AP where any of your devices can connect to (using a password). Any of these devices can automatically
-surf internet either using your standard internet connection or going through a VPN (of course you need a VPN server located somewhere).<br/>
-As result playing <b>DAZN</b> app (<b>amazone prime</b> or <b>netflix</b>) straight from a smartTV (or from other devices) and just watching content available in another country
-without hassle of consuming extra power or using mirroring or bother with changing channel from a pc becomes really trivial!<br/><br/>
+Starting a snapvpn box, it creates a WIFI AP where any of your devices can connect to (and navigate thru internet). Using the ad-hoc mobile app (download it from Android or Apple store) one can easily configure all available options like:
+1. Changing Access Point name and password for your WIFI extender
+2. Changing settings for connecting towards a vpn server (decide if to start the connection at boot of the snapvpn box)
+3. Manage different snapvpn boxes (yes! you can have multiple boxes each of them connected to several countries!)
+4. Viewer of all connected devices on the WIFI AP and option to enable/disable on the fly which device has to go through which country
+5. Start/Stop of a connection on demand
 
 Benefit:<br/>
-1. Cheap solution (a cost for such device is roughly 60~80 euro)<br/>
+1. Cheap solution (a cost for such device is roughly 40~60 euro)<br/>
 2. Extremely low power consumption<br/>
 3. Extend your WIFI in a place not reached by your router<br/>
 4. Having access to the local network of the VPN<br/>
-5. Having several devices able to go through one VPN gateway WITHOUT using a vpn client<br/>
-6. Dynamic routing of devices towards VPN or internet gateways<br/>
-7. No hassle to configure and get it up and running
-8. when you are done, you can always use it as small pc
-<br/>
-The image will be released for free here and you can also download from the major stores an app (not free of charge) that is allowing you to perform all of these
-operation easily:<br/><br/>
-1. Start/Stop a VPN<br/>
-2. Automaticaly start a VPN at device reboot time<br/>
-3. Allow/Deny a device to go thru a VPN gateway<br/>
-4. Create/delete/change a VPN connection<br/>
-<br/>
-<div style="align:left">
-<img src="settings.jpg" width="200" height="400" />
-<img src="main.jpg" width="200" height="400" />
-<img src="devices.jpg" width="200" height="400" />
-</div>
+5. No installation is required on a device (smartwatch, smartphone, smartTV, tablet and so on) to access to a different country's content
+7. No limit on the number of devices connected to the VPN (because the box will abstract the same connection for any device)
+8. Use native applications (like DAZN) and remote controller on your smartTV 
+9. No hassle to configure and get it up and running (plug-in the box and configure it using the mobile application!)
+10. when you are done, you can always use it as small pc or something else by just change the SD card that is powering the box!
 <br/><br/>
-What you need:<br/>
-1. An SD with at least 4GB<br/>
-2. A BananaPI M1<br/>
-3. A WIFI dongle (<b>Edimax EW-7811UTC</b>)<br/>
-4. A RJ45 cable<br/>
-5. A power supply<br/>
+Technical details:
+1. SnapVPN box works with protocol PPTP thus that is the protocol required on the server side
+2. PPTP is not as secure as other vpn technologies, thus don't share your connection to the world :)
+3. Soon a new box will be available for creating your vpn server using the cheapest solution (20 euro!)
+<br/><br/>
+What you'll need:<br/>
+1. An micro or standard SD with at least 4GB (class 10): e.g <a href='https://www.amazon.it/Kingston-SDCS-16GBSP-Velocit%C3%A0-Adattatore/dp/B079H19HLM/ref=sr_1_17_sspa?s=electronics&ie=UTF8&qid=1544287527&sr=1-17-spons&keywords=micro+sd&psc=1'/>micro sd</a><br/>
+2. A BananaPI M1 or raspberry PI 3 (also model B+): e.g. <a href='https://www.reichelt.com/ch/en/raspberry-pi-3-b-4x-1-4-ghz-1-gb-ram-wlan-bt-raspberry-pi-3b-p217696.html?GROUPID=8242&START=0&OFFSET=16&&r=1'>raspberry</a><br/>
+3. A WIFI dongle (<b>Edimax EW-7811UTC</b>) - <b>only if you plan to use a BananaPI: <a href='https://www.amazon.it/Edimax-EW-7811UTC-Scheda-di-rete/dp/B00FW6T36Y/ref=sr_1_1?ie=UTF8&qid=1544289254&sr=8-1&keywords=Edimax+EW-7811UTC'>dongle</a></b><br/>
+4. A power supply 5V - 2A (BananaPI) or 3A (raspberry): e.g. <a href='https://www.amazon.it/NorthPada-Raspberry-Alimentatore-Caricabatterie-Interruttore/dp/B01N33JS4A/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544288116&sr=1-5&keywords=alimentatore+5v+2.5a'>power supply</a>
+5. A RJ45 ethernet cable<br/>
 6. A SD writer device<br/>
 <br/>
+<br />
+Bundle are available for lazy people on novices: <a href=https://fr.aliexpress.com/item/New-Original-UK-Raspberry-Pi-3-Mod-le-B-Kit-Cas-16-32g-SD-Carte-3A/32878678366.html?spm=a2g0w.search0104.3.51.38de38692l1M24&ws_ab_test=searchweb0_0%2Csearchweb201602_1_10065_10068_319_317_10696_453_10084_454_10083_10618_10307_10821_538_537_10302_536_10134_10059_10884_10887_100031_321_322_10103%2Csearchweb201603_51%2CppcSwitch_0&algo_pvid=4e94373b-7155-4ecc-a8cd-8292f828b7ed&algo_expid=4e94373b-7155-4ecc-a8cd-8292f828b7ed-7'>bundle</a>
 Have fun!
 
 
