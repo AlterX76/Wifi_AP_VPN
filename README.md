@@ -30,7 +30,7 @@ Technical details:
 -> Soon a new box will be available for creating your vpn server using the cheapest solution (20 euro!)
 <br/><br/>
 What you'll need:<br/>
--> An micro or standard SD with at least 4GB (class 10): e.g <a href='https://www.amazon.it/Kingston-SDCS-16GBSP-Velocit%C3%A0-Adattatore/dp/B079H19HLM/ref=sr_1_17_sspa?s=electronics&ie=UTF8&qid=1544287527&sr=1-17-spons&keywords=micro+sd&psc=1'/>micro sd</a><br/>
+-> A micro or standard SD with at least 4GB (class 10): e.g <a href='https://www.amazon.it/Kingston-SDCS-16GBSP-Velocit%C3%A0-Adattatore/dp/B079H19HLM/ref=sr_1_17_sspa?s=electronics&ie=UTF8&qid=1544287527&sr=1-17-spons&keywords=micro+sd&psc=1'/>micro sd</a><br/>
 -> A BananaPI M1 or raspberry PI 3 (also model B+): e.g. <a href='https://www.reichelt.com/ch/en/raspberry-pi-3-b-4x-1-4-ghz-1-gb-ram-wlan-bt-raspberry-pi-3b-p217696.html?GROUPID=8242&START=0&OFFSET=16&&r=1'>raspberry</a><br/>
 -> A WIFI dongle (<b>Edimax EW-7811UTC</b>) - <b>only if you plan to use a BananaPI: <a href='https://www.amazon.it/Edimax-EW-7811UTC-Scheda-di-rete/dp/B00FW6T36Y/ref=sr_1_1?ie=UTF8&qid=1544289254&sr=8-1&keywords=Edimax+EW-7811UTC'>wifi dongle</a></b><br/>
 -> A power supply 5V - 2A (BananaPI) or 3A (raspberry): e.g. <a href='https://www.amazon.it/NorthPada-Raspberry-Alimentatore-Caricabatterie-Interruttore/dp/B01N33JS4A/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544288116&sr=1-5&keywords=alimentatore+5v+2.5a'>power supply</a><br/>
