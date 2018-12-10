@@ -1,7 +1,7 @@
 <center><img src='logo.png' /></center>
 <br />
-SnapVPN is a technology whereby one can watch from a smartTV straight any content from a different country when you are abroad!
-What you need is a snapvpn image (free!), a valid account, if required, to login to (for example using DAZN or NetFlix) and a VPN server located in the country where you'd like to grab content from (your family or friend's place); many routers offer this possibility and if not, just a pc with Windows installed can perform as vpn server.
+SnapVPN is a technology whereby one can watch from a smartTV straight any content from a different country when he/she is abroad!
+What you need is a snapvpn image (download for free!), a valid account, if required, to login to (for example using DAZN or NetFlix) and a VPN server located in the country where you'd like to grab content from (your family or friend's place); many routers offer this possibility and if not, just a pc with Windows installed can perform as vpn server.
 <br/><br/>
 <b>I like to call it abstraction of a VPN using a WIFI AP</b>.<br/>
 You didn't yet get it?<br/>
@@ -26,7 +26,8 @@ Benefit:<br/>
 <br/><br/>
 Technical details:
 -> SnapVPN box works with protocol PPTP thus that is the protocol required on the server side
--> PPTP is not as secure as other vpn technologies, thus don't share your connection to the world :)
+-> PPTP is not as secure as other vpn technologies, thus don't share your server to the world :)
+-> In case of windows vpn server, port 1723 on the router needs to be opened and redirected towards the windows machine
 -> Soon a new box will be available for creating your vpn server using the cheapest solution (20 euro!)
 <br/><br/>
 What you'll need:<br/>
@@ -40,6 +41,16 @@ What you'll need:<br/>
 <br/>
 <br />
 Bundle are available for lazy people on novices: <a href='https://fr.aliexpress.com/item/New-Original-UK-Raspberry-Pi-3-Mod-le-B-Kit-Cas-16-32g-SD-Carte-3A/32878678366.html?spm=a2g0w.search0104.3.51.38de38692l1M24&ws_ab_test=searchweb0_0%2Csearchweb201602_1_10065_10068_319_317_10696_453_10084_454_10083_10618_10307_10821_538_537_10302_536_10134_10059_10884_10887_100031_321_322_10103%2Csearchweb201603_51%2CppcSwitch_0&algo_pvid=4e94373b-7155-4ecc-a8cd-8292f828b7ed&algo_expid=4e94373b-7155-4ecc-a8cd-8292f828b7ed-7'>raspberry bundle</a><br/><br/>
+
+How to proceed:
+1. Write snapvpn image on the micro sd using <a href='https://sourceforge.net/projects/win32diskimager/'>win32diskimager</a>
+2. Plug the micro sd in the box, attach ethernet cable on the box and the wall
+3. Plug-in power supply in the socket
+4. Wait until SNAP_VPN wifi AP is visible
+4. Download snapvpn application for android or apple
+5. Install it and launch it
+6. You are ready to configure and start enjoying the great vpn world!
+<br/><br/>
 Have fun!
 
 
