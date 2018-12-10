@@ -50,7 +50,7 @@ How to proceed:
 6. Download snapvpn application for android or apple
 7. Install and launch it
 8. You are ready to configure and start enjoying the great vpn world!
-9. <b>Change the WIFI AP's default password to one suits you most</b>
+9. <b>Change the WIFI AP's default password to one suits you best</b>
 <br/><br/>
 Have fun!
 
