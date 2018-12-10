@@ -24,11 +24,11 @@ Benefit:<br/>
 -> No hassle to configure and get it up and running (plug-in the box and configure it using the mobile application!)<br/>
 -> when you are done, you can always use it as small pc or something else by just change the SD card that is powering the box!<br/>
 <br/><br/>
-Technical details:
--> SnapVPN box works with protocol PPTP thus that is the protocol required on the server side
--> PPTP is not as secure as other vpn technologies, thus don't share your server to the world :)
--> In case of windows vpn server, port 1723 on the router needs to be opened and redirected towards the windows machine
--> Soon a new box will be available for creating your vpn server using the cheapest solution (20 euro!)
+Technical details:<br/>
+-> SnapVPN box works with protocol PPTP thus that is the protocol required on the server side<br/>
+-> PPTP is not as secure as other vpn technologies, thus don't share your server to the world :)<br/>
+-> In case of windows vpn server, port 1723 on the router needs to be opened and redirected towards the windows machine<br/>
+-> Soon a new box will be available for creating your vpn server using the cheapest solution (20 euro!)<br/>
 <br/><br/>
 What you'll need:<br/>
 -> Download a SnapVPN image: <a href='https://drive.google.com/open?id=196KClAFhz91l7rSFFBuPCqS_97YSTjaU'>BananaPI</a> or <a href='https://drive.google.com/open?id=1L5MGNqU8nsyhB1sZ_wa7JHbFKxuX5f2a'>Raspberry</a><br/>
