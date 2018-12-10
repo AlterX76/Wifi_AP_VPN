@@ -43,14 +43,14 @@ Bundle are available for lazy people on novices: <a href='https://fr.aliexpress.
 
 How to proceed:
 1. Write snapvpn image on the micro sd using <a href='https://sourceforge.net/projects/win32diskimager/'>win32diskimager</a>
-2. Plug the micro sd in the box, attach ethernet cable on the box and the wall
+2. Plug the micro sd in the box, attach the ethernet cable on the box and the wall
 3. Plug-in the power supply in the socket
 4. Wait until <b>SNAP_VPN</b> wifi AP is visible
 5. Connect with your smartphone using <b>EnjoyVPN</b> default password
 6. Download snapvpn application for android or apple
 7. Install and launch it
 8. You are ready to configure and start enjoying the great vpn world!
-9. <b>Change the WIFI AP's default password to one suits you best</b>
+9. <b>Change the WIFI AP's default password to the one you like most</b>
 <br/><br/>
 Have fun!
 
