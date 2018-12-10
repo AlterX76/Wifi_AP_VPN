@@ -38,17 +38,16 @@ What you'll need:<br/>
 -> A power supply 5V - 2A (BananaPI) or 3A (raspberry): e.g. <a href='https://www.amazon.it/NorthPada-Raspberry-Alimentatore-Caricabatterie-Interruttore/dp/B01N33JS4A/ref=sr_1_5?s=electronics&ie=UTF8&qid=1544288116&sr=1-5&keywords=alimentatore+5v+2.5a'>power supply</a><br/>
 -> A RJ45 ethernet cable<br/>
 -> A SD writer device<br/>
-<br/>
 <br />
 Bundle are available for lazy people on novices: <a href='https://fr.aliexpress.com/item/New-Original-UK-Raspberry-Pi-3-Mod-le-B-Kit-Cas-16-32g-SD-Carte-3A/32878678366.html?spm=a2g0w.search0104.3.51.38de38692l1M24&ws_ab_test=searchweb0_0%2Csearchweb201602_1_10065_10068_319_317_10696_453_10084_454_10083_10618_10307_10821_538_537_10302_536_10134_10059_10884_10887_100031_321_322_10103%2Csearchweb201603_51%2CppcSwitch_0&algo_pvid=4e94373b-7155-4ecc-a8cd-8292f828b7ed&algo_expid=4e94373b-7155-4ecc-a8cd-8292f828b7ed-7'>raspberry bundle</a><br/><br/>
 
 How to proceed:
 1. Write snapvpn image on the micro sd using <a href='https://sourceforge.net/projects/win32diskimager/'>win32diskimager</a>
 2. Plug the micro sd in the box, attach ethernet cable on the box and the wall
-3. Plug-in power supply in the socket
+3. Plug-in the power supply in the socket
 4. Wait until SNAP_VPN wifi AP is visible
 4. Download snapvpn application for android or apple
-5. Install it and launch it
+5. Install and launch it
 6. You are ready to configure and start enjoying the great vpn world!
 <br/><br/>
 Have fun!
