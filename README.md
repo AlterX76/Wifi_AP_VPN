@@ -11,7 +11,7 @@ Application's capabilities:<br/>
 -> Start/Stop of a vpn on demand<br/><br/>
 
 Benefit:<br/>
--> Cheap solution (a cost for <b>snapvpn client device</b> is roughly 20~60 euro)<br/>
+-> Cheap solution (total cost for a <b>snapvpn client device</b> is roughly 20~60 euro)<br/>
 -> Extremely low power consumption<br/>
 -> Extend your WIFI in a place not reached by your router<br/>
 -> Having access to the local network of the VPN (not for <b>snapvpn server device</b> that runs completely isolated)<br/>
