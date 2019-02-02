@@ -1,7 +1,7 @@
 <center><img src='logo.png' /></center>
 <br />
 SnapVPN is the technology (software and hardware) that allows one to watch straight from a smartTV any content from a different country when abroad...It is a small device (portable and low energy consumption) that creates a wifi Access Point where to connect your devices (e.g. smart tv, laptop, tablet and forth); the <b>snapvpn client device</b> will internally create a vpn towards another device (either a windows computer, a VPN router or <b>snapvpn server device</b>) and it redirects all requests from the wifi AP to that vpn overcoming the geo-localisation check. The snapvpn devices are easy to use thanks to a mobile application available on the major store and don't require any special technical skill (just plug-and-play configuration!).
-What you need is a <b>snapvpn client image</b> (download for free!), a valid account, if required, to login to your preferred provider (for example DAZN or NetFlix) and a <b>snapvpn server device</b> (windows computer or a router with vpn capability) located in the country where you'd like to grab content from (your family or friend's place).
+What you need is a <b>snapvpn client image</b> (download for free!), a valid account, if required, to login to your preferred provider (for example DAZN or NetFlix) and a <b>snapvpn server device</b> (or windows computer, router with vpn capability) located in the country where you'd like to grab content from (your family or friend's place).
 <br/><br/>
 Here is an example:<br/>
 Starting a snapvpn box, it creates a WIFI AP where any of your devices can connect to (and navigate thru internet). Using the ad-hoc mobile app (download it from Android or Apple store) one can easily configure all available options like:<br/>
