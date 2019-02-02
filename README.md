@@ -1,36 +1,35 @@
 <center><img src='logo.png' /></center>
 <br />
-SnapVPN is a technology whereby one can watch from a smartTV straight any content from a different country when he/she is abroad!
-What you need is a snapvpn image (download for free!), a valid account, if required, to login to (for example using DAZN or NetFlix) and a VPN server located in the country where you'd like to grab content from (your family or friend's place); many routers offer this possibility and if not, just a pc with Windows installed can perform as vpn server.
+SnapVPN is the technology (software and hardware) that allows one to watch straight from a smartTV any content from a different country when abroad...It is a small device (portable and low energy consumption) that creates a wifi Access Point where to connect your devices (e.g. smart tv, laptop, tablet and forth); the <b>snapvpn client device</b> will internally create a vpn towards another device (either a windows computer, a VPN router or <b>snapvpn server device</b>) and it redirects all requests from the wifi AP to that vpn overcoming the geo-localisation check. The snapvpn devices are easy to use thanks to a mobile application available on the major store and don't require any special technical skill (just plug-and-play configuration!).
+What you need is a <b>snapvpn client image</b> (download for free!), a valid account, if required, to login to your preferred provider (for example DAZN or NetFlix) and a <b>snapvpn server device</b> (windows computer or a router with vpn capability) located in the country where you'd like to grab content from (your family or friend's place).
 <br/><br/>
-<b>I like to call it abstraction of a VPN using a WIFI AP</b>.<br/>
-You didn't yet get it?<br/>
-Well let's do an example:<br/>
+Here is an example:<br/>
 Starting a snapvpn box, it creates a WIFI AP where any of your devices can connect to (and navigate thru internet). Using the ad-hoc mobile app (download it from Android or Apple store) one can easily configure all available options like:<br/>
 -> Changing Access Point name and password for your WIFI extender<br/>
--> Changing settings for connecting towards a vpn server (decide if to start the connection at boot of the snapvpn box)<br/>
+-> Changing settings for connecting towards a server device (decide if to start the connection at boot of the snapvpn box)<br/>
 -> Manage different snapvpn boxes (yes! you can have multiple boxes each of them connected to several countries!)<br/>
--> Viewer of all connected devices on the WIFI AP and option to enable/disable on the fly which device has to go through which country<br/>
+-> View of all connected devices on the WIFI AP and option to enable/disable on the fly which device has to go through which country<br/>
 -> Start/Stop of a connection on demand<br/><br/>
 
 Benefit:<br/>
--> Cheap solution (a cost for such device is roughly 40~60 euro)<br/>
+-> Cheap solution (a cost for <b>snapvpn client device</b> is roughly 20~60 euro)<br/>
 -> Extremely low power consumption<br/>
 -> Extend your WIFI in a place not reached by your router<br/>
--> Having access to the local network of the VPN<br/>
--> No installation is required on a device (smartwatch, smartphone, smartTV, tablet and so on) to access to a different country's content<br/>
+-> Having access to the local network of the VPN (not for <b>snapvpn server device</b> that runs completely isolated)<br/>
+-> No installation is required on your devices (smartwatch, smartphone, smartTV, tablet and so on) to access to a different country's content<br/>
 -> No limit on the number of devices connected to the VPN (because the box will abstract the same connection for any device)<br/>
 -> <b>Use native applications (like DAZN) and remote controller on your smartTV </b><br/>
--> No hassle to configure and get it up and running (plug-in the box and configure it using the mobile application!)<br/>
--> when you are done, you can always use it as small pc or something else by just change the SD card that is powering the box!<br/>
+-> No hassle to configure and get it up and running (plug-in the <b>snap client device</b> and configure it using the mobile application!)<br/>
+-> when you are done, you can always use it as small pc or something else by just change the SD card that is powering the snapvpn device!<br/>
+-> Build your private shared <b>snapvpn server device</b>'s network amongst your friends or family
 <br/><br/>
 Technical details:<br/>
 -> SnapVPN box works with protocol PPTP thus that is the protocol required on the server side<br/>
 -> PPTP is not as secure as other vpn technologies, thus don't share your server to the world :)<br/>
--> In case of windows vpn server, port 1723 on the router needs to be opened and redirected towards the windows machine<br/>
--> Soon a new box will be available for creating your vpn server using the cheapest solution (20 euro!)<br/>
+-> In case of windows vpn server or <b>snapvpn server device</b>, port 1723 on the router needs to be opened and redirected towards the server device<br/>
 <br/><br/>
-What you'll need:<br/>
+
+What you need:<br/>
 -> Download a SnapVPN image: <a href='https://drive.google.com/open?id=196KClAFhz91l7rSFFBuPCqS_97YSTjaU'>BananaPI</a> or <a href='https://drive.google.com/open?id=1L5MGNqU8nsyhB1sZ_wa7JHbFKxuX5f2a'>Raspberry</a><br/>
 -> A micro or standard SD with at least 4GB (class 10): e.g <a href='https://www.amazon.it/Kingston-SDCS-16GBSP-Velocit%C3%A0-Adattatore/dp/B079H19HLM/ref=sr_1_17_sspa?s=electronics&ie=UTF8&qid=1544287527&sr=1-17-spons&keywords=micro+sd&psc=1'/>micro sd</a><br/>
 -> A BananaPI M1 or raspberry PI 3 (also model B+): e.g. <a href='https://www.reichelt.com/ch/en/raspberry-pi-3-b-4x-1-4-ghz-1-gb-ram-wlan-bt-raspberry-pi-3b-p217696.html?GROUPID=8242&START=0&OFFSET=16&&r=1'>raspberry</a><br/>
