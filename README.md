@@ -7,7 +7,7 @@ Application's capabilities:<br/><br/>
 -> Changing Access Point name and password for your wifi AP extender<br/>
 -> Changing settings for connecting towards a server device (decide if to start the connection at boot of the snapvpn device)<br/>
 -> Manage different snapvpn boxes (yes! you can have multiple boxes each of them connected to several countries!)<br/>
--> List of connected devices on the WIFI AP and option to <b>enable/disable on the fly which device has to go through which country</b><br/>
+-> <b>Enable/disable on the fly which device has to go through which country</b><br/>
 -> Start/Stop of a vpn on demand<br/><br/>
 
 Benefit:<br/>
