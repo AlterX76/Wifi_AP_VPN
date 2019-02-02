@@ -45,10 +45,11 @@ How to proceed:
 3. Plug-in the power supply in the socket
 4. Wait until <b>SNAP_VPN</b> wifi AP is visible
 5. Connect with your smartphone using <b>EnjoyVPN</b> default password
-6. Download SnapVpn application for <a href='https://play.google.com/store/apps/details?id=com.snapvpn'>android</a> or apple
-7. Install and launch it
-8. You are ready to configure and start enjoying the great vpn world!
-9. <b>Change the WIFI AP's default password to the one you like most</b>
+6. The new wifi AP you've just connected to auto configures itself to use your network and share your internet connection!
+7. Download and install SnapVpn application for <a href='https://play.google.com/store/apps/details?id=com.snapvpn'>android</a> or apple
+8. Launch it
+9. <b>Change the wifi AP's default password to the one you like most</b>
+10. You are ready to configure and start enjoying your blocked content on smart tv or other devices!
 <br/><br/>
 Have fun!
 
